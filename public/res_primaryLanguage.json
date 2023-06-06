@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Christina Hollie. Reliable work from home guru who really gets it all done. I'm working with newest front-end frameworks like Angular, React, Vue and MongoDB.💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "city-explorer",
+        "startDate": "2023",
+        "description": "Look up the weather anywhere in the world and see a map of that city along with popular movies that were filmed there.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=tom-barrett-hgGplX3PFBg-unsplash.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/Chollie1987/city-explorer",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +34,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Can-of-books",
+        "startDate": "2023",
+        "description": "Log in and add or delete books in a database.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=chris-lawton-zvKx6ixUhWQ-unsplash.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +53,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Final Project",
+        "startDate": "2023",
+        "description": "",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=clement-helardot-95YRwf6CNw8-unsplash.jpg"
         ],
         "url": "https://github.com",
         "technologies": [

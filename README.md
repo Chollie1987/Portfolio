@@ -1,3 +1,1 @@
-# Modify this portfolio
-
-Make it your own
+# Christina Hollie's Portfolio
